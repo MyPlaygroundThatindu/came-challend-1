@@ -15,6 +15,6 @@ This is a simple Hello World program
 [Official java documentation](https://docs.oracle.com/en/java/javase/17/)
 
 Program demonstration - 
-<img width="800" src="https://github.com/tharindu152/lecture-link-backend/blob/master/src/main/resources/pic/Lecture_Link_ERD.drawio.png">
+<img width="800" src="https://github.com/MyPlaygroundThatindu/came-challend-1/blob/master/pic/Screenshot%202025-11-02%20115814.png">
 
 Copyright ©️ 2025 Tharindu Thennakoon
